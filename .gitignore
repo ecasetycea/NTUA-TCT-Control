@@ -1,0 +1,5 @@
+*.pyc
+.tct_*
+_data/
+test.py
+/*.yml
